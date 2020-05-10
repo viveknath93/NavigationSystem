@@ -1,0 +1,77 @@
+{
+	"waypoints" : [
+		{
+			"name": "Hauptbahnhof",
+			"latitude": "20.987",
+			"longitude": "13.345"
+		},
+		{
+			"name": "Konzerthaus",
+			"latitude": "19.0909",
+			"longitude": "26.658"
+		},
+		{
+			"name": "Rathaus",
+			"latitude": "56.2244",
+			"longitude": "41.954"
+		}
+	],
+	"pois" : [
+		{
+			"name": "Alps",
+			"latitude": "9.2356",
+			"longitude": "32.6589",
+			"type": "TOURISTIC",
+			"description": "Skiing in winter"
+		},
+		{
+			"name": "Aral",
+			"latitude": "78.2356",
+			"longitude": "32.6589",
+			"type": "GASSTATION",
+			"description": "Fill up the tank "
+		},
+		{
+			"name": "Eberstadt",
+			"latitude": "32.658",
+			"longitude": "63.784",
+			"type": "TOURISTIC",
+			"description": "Place of living"
+		},
+		{
+			"name": "EinKaufzentrum",
+			"latitude": "45.2356",
+			"longitude": "32.6589",
+			"type": "TOURISTIC",
+			"description": "es gibt Viel angebot"
+		},
+		{
+			"name": "H-da",
+			"latitude": "34.6589",
+			"longitude": "58.432",
+			"type": "UNIVERSITY",
+			"description": "University in Darmstadt"
+		},
+		{
+			"name": "Italian",
+			"latitude": "23.2356",
+			"longitude": "32.6778",
+			"type": "RESTAURANT",
+			"description": " Pizza "
+		},
+		{
+			"name": "LuisenPlatz",
+			"latitude": "83.471",
+			"longitude": "23.6589",
+			"type": "RESTAURANT",
+			"description": "center for Darmstadt"
+		},
+		{
+			"name": "Mensa",
+			"latitude": "12.3265",
+			"longitude": "9.658",
+			"type": "UNIVERSITY",
+			"description": "Canteen inside University"
+		},
+	]
+}
