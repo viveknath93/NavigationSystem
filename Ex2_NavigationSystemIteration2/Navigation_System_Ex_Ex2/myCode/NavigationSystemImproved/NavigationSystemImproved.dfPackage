@@ -1,0 +1,29 @@
+package id1t73cjozmic7njoznm61r;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+*/
+class diagram {
+}/**
+@__tags
+@shapeType ClassDiagram 
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+@__positions <oigroup:Autodependency<oiref:cpp#Class#CRoute:oiref><Autodependency><oiref:cpp#Class#CWpDatabase:oiref>=561,517,561,542:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CNavigationSystem#m_WpDatabase:oiref>=691,252,528,542:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#CRoute:oiref><Autodependency><oiref:cpp#Class#CPoiDatabase:oiref>=440,476,304,584:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#CPoiDatabase:oiref><Autodependency><oiref:cpp#Class#CPOI:oiref>=151,544,151,509:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CNavigationSystem#m_GPSSensor:oiref>=773,252,773,553:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#CWpDatabase:oiref><Autodependency><oiref:cpp#Class#CWaypoint:oiref>=496,542,231,250:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#CGPSSensor:oiref><Autodependency><oiref:cpp#Class#CWaypoint:oiref>=760,553,282,250:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#CNavigationSystem#m_route:oiref>=609,252,609,310:oigroup>
+*/
+class __positions {
+}

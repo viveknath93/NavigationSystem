@@ -1,0 +1,4 @@
+Hauptbahnhof;20.987;13.345
+
+Konzerthaus;   26.658
+Rathaus;56.2244;41.954

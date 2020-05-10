@@ -1,0 +1,8 @@
+TOURISTIC;Alps;Skiing in winter;9.2356;32.6589
+GASSTATION,Aral,Fill up the tank ,78.2356,32.6589
+;Eberstadt;Place of living;32.658;63.784
+TOURISTIC;EinKaufzentrum;es gibt Viel angebot;45.2356;32.6589
+
+RESTAURANT,Italian, Pizza ,23.2356,32.6778
+RESTAURANT;LuisenPlatz;center for Darmstadt;83.471;   
+UNIVERSITY;Mensa;Canteen inside University;.abc;9.658;;
